@@ -82,7 +82,6 @@ width: 50%;
     height: 600px;
     width: 50%;
     display: grid;
-    grid-column: inherit;
     background-color: black;
 
  }
