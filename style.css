@@ -1,5 +1,5 @@
 #hero{
-    height: 600px;
+    height: 580px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -45,7 +45,7 @@ background-color:#0DCAF0;
 }
 
 #hero2{
-    height: 600px;
+    height: 500px;
     width: 100%;
     display: flex;
     justify-content: center;
